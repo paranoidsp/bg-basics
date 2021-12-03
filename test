@@ -1,3 +1,4 @@
 #!/bin/bash
 
 echo "Hi $USER! This is a fine morning!"
+echo " Python and SQL"
